@@ -6,6 +6,10 @@
 #find2 {
     text-align: center;
 }
+#find2 table{
+    border-collapse: collapse;
+    margin-left: 7px;
+}
 input {
     margin-top: 5px;
     margin-left: 5px;

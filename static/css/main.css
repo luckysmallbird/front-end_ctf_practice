@@ -11,8 +11,7 @@
     text-decoration: none;
 }
 #mainurl {
-    margin-left: 450px;
-    margin-top: 20px;
+    
 }
 #mainurl img{
     width: 30px;
@@ -50,4 +49,16 @@
     color: black;
     z-index: 90;
     font-size: 20;
+}
+table {
+    text-align: left;
+    margin-left: 0px;
+    margin-left: 450px;
+    margin-top: 20px;
+}
+th {
+    padding: 10px;
+    padding-bottom: 17px;
+    font-weight: normal;
+    border: 1px solid white;
 }

@@ -9,6 +9,10 @@ window.onload = function()
             alert("forbid your alert!!!");
             return ;
         }
+        if(param.indexOf('prompt')!=-1){
+            alert("forbid your alert!!!");
+            return ;
+        }
         if(param.indexOf('confirm')!=-1){
             alert("forbid your confirm!!!");
             return ;
