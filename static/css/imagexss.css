@@ -1,0 +1,33 @@
+.main1 {
+    width: 33%;
+    float: left;
+    box-sizing: border-box;
+    padding: 5px;
+}
+.main2 {
+    width: 33%;
+    float: left;
+    box-sizing: border-box;
+    padding: 5px;
+}
+.main3 {
+    width: 33%;
+    float: left;
+    box-sizing: border-box;
+    padding: 5px;
+}
+.main1 img{
+    width: 100%;
+    display: block;
+}
+.main2 img{
+    width: 100%;
+    display: block;
+}
+.main3 img{
+    width: 100%;
+    display: block;
+}
+body {
+    text-align: center;
+}

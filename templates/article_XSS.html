@@ -1,0 +1,22 @@
+<html>
+    <head>
+        <title>噁男複製文產生器</title>
+        <script src="./../static/js/flag.js"></script>
+        <script src="../static/js/article.js"></script>
+        <script src="https://code.jquery.com/jquery-3.7.0.min.js"></script>
+        <link rel="stylesheet" href="../static/css/article.css">
+    </head>
+    <body>
+        <span id="main-title">噁男複製文產生器</span><br><br>
+        <form action="./article_XSS.html" method="get">
+            <input id="input" name="input" type="text" placeholder="輸入名字">
+            <input id="btn" type="submit" value="送出">
+        </form>
+        
+        
+        <div class="copytext" id="c1"></div>
+        <div class="copytext" id="c2"></div>
+        <div class="copytext" id="c3"></div>
+    </body>
+</html>
+<!-- try to print flag3! -->

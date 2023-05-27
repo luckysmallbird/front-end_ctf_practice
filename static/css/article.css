@@ -1,0 +1,31 @@
+body {
+    text-align: center;
+    font-size: 30px;
+}
+form * {
+    border-radius: 10px;
+    border:3px solid black ;
+}
+
+#input {
+    width: 300px;
+    height: 40px;
+}
+#btn {
+    width: 80px;
+    height: 40px;
+}
+.copytext {
+    text-align: left;
+    font-size: 25px;
+    background-color: rgb(217, 237, 247);
+    border:2px solid rgb(188, 232, 241) ;
+    border-radius: 10px;
+    margin-left: 50px;
+    margin-right: 50px;
+    margin-top: 20px;
+    padding-left: 30px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    color: rgb(49, 112, 143);
+}

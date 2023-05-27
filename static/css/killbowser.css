@@ -1,0 +1,22 @@
+.bowser img{
+    width: 960px;
+    height: 543px;
+}
+#killbowser img{
+    width: 220px;
+    height: 45px;
+    padding-left: 200px;
+    position: absolute;
+}
+#killbowser {
+    margin-right: 350px;
+    margin-top: 30px;
+    font-family: 'Public Pixel', sans-serif;
+}
+body {
+    text-align: center;
+    font-size: 40px;
+}
+#showflag {
+    font-family: 'Public Pixel', sans-serif;
+}
